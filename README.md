@@ -1,3 +1,3 @@
 # Pixel-Art-Maker
 
-https://github.com/de0lu/Pixel-Art-Maker
+https://de0lu.github.io/Pixel-Art-Maker/
