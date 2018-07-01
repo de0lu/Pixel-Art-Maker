@@ -1,10 +1,5 @@
 // Select color input
 // Select size input
-let height, width, color;
-const pixelCanvas = $('#pixelCanvas');
-const savedImageBox = $('.saved-image-box');
-const saveButton = $('#save-button');
-let getCanvas = "";
 
 // When size is submitted by the user, call makeGrid()
 $('#sizePicker').submit(function (event) {
